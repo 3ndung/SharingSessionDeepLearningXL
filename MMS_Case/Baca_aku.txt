@@ -1,1 +1,2 @@
-#cuma sebuah pendekatan jadi mirip mirip PDKT gitu mesti belum tentu jadi
+#cuma sebuah pendekatan jadi mirip mirip PDKT gitu mesti belum tentu jadi *kidding
+# DATA_SET tidak bisa ditampilkan karena ada data yang harus dirahasiakan
